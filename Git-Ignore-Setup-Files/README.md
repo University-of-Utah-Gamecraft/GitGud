@@ -1,4 +1,4 @@
-# Git Ignore Templates for Game Engines
+# Git Ignore Templates
 
 This folder contains `.gitignore` templates for these game engines: **Unreal Engine 5 (UE5)**, **Unity**, and **Godot**. These templates will help you prevent unnecessary files from being tracked by Git when working on projects in these engines.
 
